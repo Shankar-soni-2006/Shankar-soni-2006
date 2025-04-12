@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me soniyashwant282@gmail.com
+- 📫 How to reach me shankarsoni7172@gmail.com
 - 
 - 
 
