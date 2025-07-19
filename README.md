@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Shankar-soni-2006
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning C language
+- 🌱 I’m  learning C language
+- I am currently learning the DBMS and Java  
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me shankarsoni7172@gmail.com
 - 
