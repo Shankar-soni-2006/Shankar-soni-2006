@@ -4,7 +4,7 @@
 # 🏆 Coding Profiles:
 💻 LeetCode: https://leetcode.com/u/Shankar-Soni/
 🚀 GeeksforGeeks: https://www.geeksforgeeks.org/profile/shankarsoni
-⚡ HackerRank: https://www.hackerrank.com/profile/shankarsoni
+  ⚡ HackerRank: https://www.hackerrank.com/profile/shankarsoni
 
 ## 🏅 Certifications
 
