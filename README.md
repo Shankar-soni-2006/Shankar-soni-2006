@@ -25,6 +25,7 @@
 | Badge | Achievement |
 |--------|------------|
 | ⚡ | **Quickdraw** |
+| 🤠 | **YOLO** |
 
 ## 📈 LeetCode Stats
 
