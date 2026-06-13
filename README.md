@@ -20,6 +20,12 @@
 ![](https://streak-stats.demolab.com/?user=Shankar-soni-2006&theme=dark&hide_border=false)
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shankar-soni-2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏅 Github Achievements
+
+| Badge | Achievement |
+|--------|------------|
+| ⚡ | **Quickdraw** |
+
 ## 📈 LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Shankar-Soni?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/u/shankarsoni/)
