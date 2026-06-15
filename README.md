@@ -12,19 +12,19 @@
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   
-  <a href="https://www.hackerrank.com/your_username">
+  <a href="https://www.hackerrank.com/shankarsoni">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
   
-  <a href="https://www.codechef.com/users/your_username">
+  <a href="https://www.codechef.com/users/shankarsoni">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
   
-  <a href="https://codeforces.com/profile/your_username">
+  <a href="https://codeforces.com/profile/shankarsoni7172">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
   
-  <a href="https://www.geeksforgeeks.org/user/your_username">
+  <a href="https://www.geeksforgeeks.org/user/shankarsoni">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
   </a>
 </p>
