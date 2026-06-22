@@ -82,6 +82,7 @@
 |--------|------------|
 | ⚡ | **Quickdraw** |
 | 🤠 | **YOLO** |
+| 🦈 | **Pull Shark** |
 
 ## 📈 LeetCode Stats
 
