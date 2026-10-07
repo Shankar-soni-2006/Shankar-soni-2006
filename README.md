@@ -68,8 +68,8 @@
 
 | Certification | Issuing Organization | Date Earned | Credential |
 |--------------|---------------------|-------------|------------|
-| 🏅 AWS Certified Cloud Practitioner | Amazon Web Services (AWS) | 2025 | [Badge](https://www.credly.com/badges/9955f96c-f842-47dc-a92c-8b955fa04e61) |
-| 🤖 AWS Certified AI Practitioner | Amazon Web Services (AWS) | 2026 | [Badge](https://www.credly.com/badges/279a77c2-4e1a-441a-b008-9732f95e6856) |
+|  AWS Certified Cloud Practitioner | Amazon Web Services (AWS) | 2025 | [Badge](https://www.credly.com/badges/9955f96c-f842-47dc-a92c-8b955fa04e61) |
+|  AWS Certified AI Practitioner | Amazon Web Services (AWS) | 2026 | [Badge](https://www.credly.com/badges/279a77c2-4e1a-441a-b008-9732f95e6856) |
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Shankar-soni-2006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
